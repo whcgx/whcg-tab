@@ -1,0 +1,24 @@
+{
+  "name": "@whcg/whcg-tab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "module": "dist/index.es6.js",
+  "scripts": {
+    "build": "rollup -c"
+ },
+  "files": [
+    "dist",
+    "theme"
+ ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whcgx/whcg-tab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whcgx/whcg-tab/issues"
+  },
+  "homepage": "https://github.com/whcgx/whcg-tab#readme"
+}
