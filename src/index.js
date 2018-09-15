@@ -52,7 +52,7 @@ export class WhcgLitTab extends PolymerElement {
   }
 
   _valueChanged() {
-      console.log(this.page);
+    //   console.log(this.page);
   }
 }
 

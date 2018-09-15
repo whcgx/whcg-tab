@@ -140,7 +140,7 @@ class WhcgLitTab extends polymerElement_js.PolymerElement {
   }
 
   _valueChanged() {
-      console.log(this.page);
+    //   console.log(this.page);
   }
 }
 
